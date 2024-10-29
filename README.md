@@ -43,10 +43,14 @@ The analysis is directed towards answering critical questions that can guide the
 
 ## Recommendations
 Based on the analysis, the following recommendations are proposed:
-1. **Targeted Content Acquisition**: Focus on acquiring popular genres in regions with high viewer engagement to maximize audience reach.
-2. **Optimal Release Scheduling**: Utilize historical data on viewership trends to determine the best times to launch new content, aligning with peak viewing periods.
-3. **Invest in Original Productions**: Given the rising demand for original content, increasing investment in in-house productions can strengthen the platform’s competitive edge.
-4. **Audience Engagement Strategies**: Implement targeted marketing campaigns based on insights regarding audience preferences to enhance viewer retention and attraction.
+1) The most popular Genres across the countries and in both TV Shows and Movies are Drama, Comedy and International TV Shows/Movies, so content aligning to that is recommended.
+2)Add TV Shows in July/August and Movies in last week of the year/first month of the next year.
+3)For USA audience 80-120 mins is the recommended length for movies and Kids TV Shows are also popular along with the genres in first point, hence recommended.
+4)For UK audience, recommended length for movies is same as that of USA (80-120 mins)
+5)The target audience in USA and India is recommended to be 14+ and above ratings while for UK, its recommended to be completely Mature/R content .
+6)Add movies for Indian Audience, it has been declining since 2018.
+7)Anime Genre for Japan and Romantic Genre in TV Shows for South Korean audiences is recommended.
+8) While creating content, take into consideration the popular actors/directors for that country. Also take into account the director-actor combination which is highly recommended.
 
 ## Technologies Used
 - **Python**: For data analysis and visualization.
