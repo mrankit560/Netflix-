@@ -57,8 +57,8 @@ Based on the analysis, the following recommendations are proposed:
    ```bash
    git clone https://github.com/your-username/repository-name.git
    ```
-2. Open the Jupyter notebook (`OTT_Analysis.ipynb`) to explore the analysis and insights derived from the dataset.
-3. Review the dataset file (`content_data.csv`) for a detailed view of the content features used in the analysis.
+2. Open the Jupyter notebook (`OTT_Analysis_by_ankit.ipynb`) to explore the analysis and insights derived from the dataset.
+3. Review the dataset file (`data.csv`) for a detailed view of the content features used in the analysis.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
