@@ -1,4 +1,4 @@
-# OTT Platform Content Strategy Analysis 
+# OTT Platform Content Strategy Analysis
 
 ## Overview
 This project aims to analyze the content strategy of a leading OTT platform, focusing on the types of shows and movies available, audience preferences, and potential market expansion opportunities. By leveraging data analysis techniques, the insights derived can inform strategic decisions regarding content production and acquisitions.
